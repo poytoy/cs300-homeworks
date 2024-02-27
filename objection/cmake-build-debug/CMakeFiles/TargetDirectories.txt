@@ -1,0 +1,3 @@
+/Users/poyrazguler/Desktop/objection/cmake-build-debug/CMakeFiles/tree.dir
+/Users/poyrazguler/Desktop/objection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/poyrazguler/Desktop/objection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
